@@ -1,0 +1,23 @@
+[02-Sep-2025 06:37:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Welcome" in /Applications/MAMP/htdocs/php/chapter3/welcome-error.php:2
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/php/chapter3/welcome-error.php on line 2
+[02-Sep-2025 06:52:37 UTC] PHP Warning:  Undefined array key "user" in /Applications/MAMP/htdocs/php/chapter3/user-output.php on line 3
+[03-Sep-2025 00:21:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Welcome" in /Applications/MAMP/htdocs/php/chapter3/welcome-error.php:2
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/php/chapter3/welcome-error.php on line 2
+[03-Sep-2025 01:35:31 UTC] PHP Warning:  Undefined array key "user" in /Applications/MAMP/htdocs/php/chapter3/user-output.php on line 3
+[03-Sep-2025 06:12:00 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "," or ";" in /Applications/MAMP/htdocs/php/chapter4/radio-output.php on line 11
+[03-Sep-2025 06:12:17 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "," or ";" in /Applications/MAMP/htdocs/php/chapter4/radio-output.php on line 11
+[03-Sep-2025 07:10:39 UTC] PHP Warning:  require(header.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/php/chapter4/select-foreach-input.php on line 1
+[03-Sep-2025 07:10:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/Applications/MAMP/bin/php/php8.3.14/lib/php') in /Applications/MAMP/htdocs/php/chapter4/select-foreach-input.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/php/chapter4/select-foreach-input.php on line 1
+[03-Sep-2025 07:37:28 UTC] PHP Warning:  require(../homepage.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/php/chapter4/select-foreach-output.php on line 1
+[03-Sep-2025 07:37:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../homepage.php' (include_path='.:/Applications/MAMP/bin/php/php8.3.14/lib/php') in /Applications/MAMP/htdocs/php/chapter4/select-foreach-output.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/php/chapter4/select-foreach-output.php on line 1
+[03-Sep-2025 07:51:54 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in /Applications/MAMP/htdocs/php/chapter4/store-input2.php on line 10

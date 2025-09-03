@@ -1,0 +1,21 @@
+[Tue Sep 02 15:25:43.436593 2025] [:notice] [pid 1392:tid 8355061952] FastCGI: process manager initialized (pid 1392)
+[Tue Sep 02 15:25:43.439211 2025] [mpm_event:notice] [pid 1390:tid 8355061952] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Tue Sep 02 15:25:43.439618 2025] [core:notice] [pid 1390:tid 8355061952] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Sep 02 15:26:03.155626 2025] [mpm_event:notice] [pid 1390:tid 8355061952] AH00491: caught SIGTERM, shutting down
+[Tue Sep 02 15:26:03.167269 2025] [:alert] [pid 1392:tid 8355061952] (2)No such file or directory: FastCGI: read() from pipe failed (0)
+[Tue Sep 02 15:26:03.167660 2025] [:alert] [pid 1392:tid 8355061952] (2)No such file or directory: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Tue Sep 02 15:28:04.391660 2025] [:notice] [pid 1834:tid 8355061952] FastCGI: process manager initialized (pid 1834)
+[Tue Sep 02 15:28:04.393879 2025] [mpm_event:notice] [pid 1833:tid 8355061952] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Tue Sep 02 15:28:04.394237 2025] [core:notice] [pid 1833:tid 8355061952] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Sep 02 16:11:33.888304 2025] [mpm_event:notice] [pid 1833:tid 8355061952] AH00491: caught SIGTERM, shutting down
+[Tue Sep 02 16:11:33.902212 2025] [:alert] [pid 1834:tid 8355061952] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Tue Sep 02 16:11:33.902770 2025] [:alert] [pid 1834:tid 8355061952] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Sep 03 09:15:40.157423 2025] [:notice] [pid 2285:tid 8329142464] FastCGI: process manager initialized (pid 2285)
+[Wed Sep 03 09:15:40.159318 2025] [mpm_event:notice] [pid 2284:tid 8329142464] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Sep 03 09:15:40.159668 2025] [core:notice] [pid 2284:tid 8329142464] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Sep 03 11:56:42.531311 2025] [authz_core:error] [pid 2305:tid 6131855360] [client 192.168.32.53:52157] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 11:56:42.562086 2025] [authz_core:error] [pid 2288:tid 6129561600] [client 192.168.32.34:58229] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 11:56:42.577198 2025] [authz_core:error] [pid 2288:tid 6130135040] [client fe80::1f4c:f829:ae57:78d0%en0:58230] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 14:46:12.243525 2025] [authz_core:error] [pid 2305:tid 6129561600] [client 192.168.32.34:60076] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 14:46:12.258330 2025] [authz_core:error] [pid 2288:tid 6132428800] [client fe80::1f4c:f829:ae57:78d0%en0:60077] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 14:46:12.262365 2025] [authz_core:error] [pid 2305:tid 6133002240] [client 192.168.32.53:51745] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
