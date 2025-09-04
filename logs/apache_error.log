@@ -19,3 +19,8 @@
 [Wed Sep 03 14:46:12.243525 2025] [authz_core:error] [pid 2305:tid 6129561600] [client 192.168.32.34:60076] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
 [Wed Sep 03 14:46:12.258330 2025] [authz_core:error] [pid 2288:tid 6132428800] [client fe80::1f4c:f829:ae57:78d0%en0:60077] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
 [Wed Sep 03 14:46:12.262365 2025] [authz_core:error] [pid 2305:tid 6133002240] [client 192.168.32.53:51745] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 17:33:23.881269 2025] [authz_core:error] [pid 2305:tid 6131281920] [client 192.168.32.34:62459] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 17:33:23.902720 2025] [authz_core:error] [pid 2288:tid 6138736640] [client fe80::1f4c:f829:ae57:78d0%en0:62460] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Sep 03 17:33:54.053234 2025] [mpm_event:notice] [pid 2284:tid 8329142464] AH00491: caught SIGTERM, shutting down
+[Wed Sep 03 17:33:54.066127 2025] [:alert] [pid 2285:tid 8329142464] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Wed Sep 03 17:33:54.066608 2025] [:alert] [pid 2285:tid 8329142464] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
